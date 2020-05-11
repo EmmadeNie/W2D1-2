@@ -24,6 +24,7 @@ INGREDIENTS:
  275 ml pasta water
  7 cloves of garlic
  generous pinch of salt
+ een halve dino-staart
  6 tbsp oil
  2 tbsp nutritional yeast
  ground black pepper to taste
