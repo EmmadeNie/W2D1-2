@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Cook the pasta as per the pack instructions. Ideally it should be cooked in 2 litres of water with 2 tbsp of salt added (don't worry, most of it will go down the sink!).
 
@@ -16,3 +17,15 @@ Put a non stick pan on high heat and add 1 tbsp of oil along with the cooked pas
 Taste and adjust the seasoning by adding more salt or pepper.
 
 Cut the grilled courgette into bite size pieces and add before serving/ alternatively add the thawed peas
+=======
+INGREDIENTS:
+ 200 g dried pasta of choice
+ 500 g sweet potato/pumpkin/squash
+ 275 ml pasta water
+ 2 cloves of garlic
+ generous pinch of salt
+ 6 tbsp oil
+ 2 tbsp nutritional yeast
+ ground black pepper to taste
+ 1 grilled courgette - cooked on a griddle panned / alternatively use 200g of frozen peas thawed.
+>>>>>>> 3cb372d4e11bbb2f2cad91d219709140ec3c1240
