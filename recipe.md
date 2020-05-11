@@ -26,6 +26,7 @@ INGREDIENTS:
  7 cloves of garlic
  generous pinch of salt
  een halve dino-staart
+ lalalala
  6 tbsp oil
  2 tbsp nutritional yeast
  ground black pepper to taste
