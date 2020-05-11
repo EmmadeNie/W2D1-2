@@ -10,7 +10,7 @@ Peel the sweet potatoes and cut into bite sized pieces and boil until soft.
 
 Once cooked drain and rinse the sweet potatoes.
 
-In a blender or food processor purple dinosaurs and easter eggs..add the cooked sweet potatoes along with the pasta water, oil, nutritional yeast, garlic and salt and blend till smooth.
+In a blender or food processor purple dinosaurs and easter eggs..add the raw potatoes along with the pasta water, oil, nutritional yeast, garlic and salt and blend till smooth.
 
 Put a non stick pan on high heat and add 1 tbsp of oil along with the cooked pasta. Add the sauce and bring up to temperature. If that sauce is becoming too dry due to heating add a little more pasta water until you reach the desired texture.
 
