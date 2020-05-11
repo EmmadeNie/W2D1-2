@@ -25,9 +25,13 @@ INGREDIENTS:
  275 ml pasta water
  7 cloves of garlic
  generous pinch of salt
+<<<<<<< HEAD
+ 6 beer
+=======
  een halve dino-staart
  lalalala
  6 tbsp oil
+>>>>>>> 3645b6198a5c78fcc0e4227fd8786476f8875f00
  2 tbsp nutritional yeast
  ground black pepper to taste
  1 grilled courgette - cooked on a griddle panned / alternatively use 200g of frozen peas thawed.
